@@ -4,7 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Live-green)
 ![ML](https://img.shields.io/badge/ML-RandomForest-orange)
-![css](https://img.shudlds.io/badge/css-purple)
 ---
 
 ## 📌 Overview
